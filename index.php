@@ -3,7 +3,8 @@
 <html>
 <head>
     <title>Web Class</title>
-</head>
+</head> Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas veritatis cupiditate dolore quidem dolor consectetur voluptatibus consequatur, enim minima alias recusandae odit, quaerat atque cumque? In, eveniet? Modi, nemo repudiandae?
+
 <body>
     <header>
         <div id="logo">Web Class</div>
